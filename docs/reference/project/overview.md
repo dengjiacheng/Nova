@@ -1,9 +1,7 @@
----
 title: Nova 平台项目总览
 status: active
 updated_at: 2025-10-22
-dcp: TASK-20251022-1732-ONBRD
----
+dcp: TASK-20251022-1909-ONBRD
 
 # Nova 平台项目总览
 
